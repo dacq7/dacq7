@@ -1,27 +1,31 @@
-👋 Hello, I'm Diego Correa!
-🔹 Python Developer | Data Analysis & Automation | Flask & SQL
-🔹 Studying Machine Learning & Cloud Computing
-🔹 Passionate about AI, automation, and optimizing business processes
+## Diego Alejandro Correa
+**Full-Stack Developer · Medellín, Colombia**
 
-📌 Current Focus:
-🚀 Exploring Machine Learning with TensorFlow & Google Cloud
-📊 Building full-stack solutions with Flask & SQL
-🤖 Developing projects that turn data into actionable insights
+I build production-ready web applications for real business operations — booking systems, CRMs, and management platforms. Available for freelance projects targeting US and European markets.
 
-🔗 Find me here:
-📘 LinkedIn | 🐙 GitHub
+---
 
-<!--
-**dacq7/dacq7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Stack
 
-Here are some ideas to get you started:
+![FastAPI](https://img.shields.io/badge/FastAPI-0.135-green?style=flat-square)
+![React](https://img.shields.io/badge/React-19-cyan?style=flat-square)
+![TypeScript](https://img.shields.io/badge/TypeScript-5.9-blue?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3.12-blue?style=flat-square)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-15-blue?style=flat-square)
+![Docker](https://img.shields.io/badge/Docker-ready-blue?style=flat-square)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Featured Projects
+
+| Project | Description | Links |
+|---------|-------------|-------|
+| **BarberOS** | Full-stack barbershop management — online booking, barber schedules, commission tracking, inventory | [Repo](https://github.com/dacq7/barberos-os) · [Live](https://barberos-os.vercel.app) |
+| **Trucking CRM** | Insurance CRM for trucking companies — client pipeline, role-based access, revenue dashboard | [Repo](https://github.com/dacq7/trucking-crm) · [Live](https://trucking-crm.vercel.app) |
+
+---
+
+### Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Diego_Correa-blue?style=flat-square)](https://linkedin.com)
+[![Upwork](https://img.shields.io/badge/Upwork-Available-brightgreen?style=flat-square)](https://upwork.com)
