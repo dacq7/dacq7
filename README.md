@@ -1,6 +1,6 @@
 <div align="center">
 
-# Diego Alejandro Correa
+# Diego Alejandro Correa Quiroz
 ### Full Stack Developer · Founder of Veridis Dev
 
 *Building production-ready web and mobile software for businesses*
