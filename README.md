@@ -34,11 +34,12 @@ I work across the full stack — from architecting databases and REST APIs to bu
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat&logo=pydantic&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
 
 **Database & Infrastructure**  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 **Testing**  
@@ -60,8 +61,8 @@ I work across the full stack — from architecting databases and REST APIs to bu
 ### 🥋 Budokan SKIF — Karate Dojo Management
 Full-featured management platform for a real karate dojo in production. Handles student registration, attendance tracking, belt progression, payments and inventory.
 
-**Stack:** React · Node.js · PostgreSQL · Supabase  
-**Testing:** Jest — auth flows, student entity validation, API endpoints  
+**Stack:** React · Node.js · PostgreSQL · Prisma  
+**Testing:** Jest — 26 tests covering auth flows, student validation and API endpoints  
 **→ [Live App](https://budokan-app.vercel.app) · [Repository](https://github.com/dacq7/budokan-app)**
 
 ---
@@ -70,7 +71,7 @@ Full-featured management platform for a real karate dojo in production. Handles 
 Complete SaaS platform for barbershop owners. Online booking system, barber schedule management, commission tracking and inventory control. Role-based access for owners and barbers.
 
 **Stack:** React · FastAPI · PostgreSQL · Supabase Auth  
-**Testing:** Pytest — endpoint validation, role-based access control, Pydantic schema validation  
+**Testing:** Pytest — 37 tests covering auth, booking validation and Pydantic schema validation  
 **→ [Live App](https://barberos-os.vercel.app/admin/login) · [Repository](https://github.com/dacq7/barberos-os)**
 
 ---
@@ -78,8 +79,8 @@ Complete SaaS platform for barbershop owners. Online booking system, barber sche
 ### 🚛 Trucking CRM — Insurance & Compliance Pipeline
 CRM built for US trucking companies. Full client pipeline management, role-based access control, revenue dashboard and compliance tracking.
 
-**Stack:** React · TypeScript · Node.js · PostgreSQL  
-**Testing:** Jest — pipeline logic, role permissions, API integration tests  
+**Stack:** React · TypeScript · Node.js · PostgreSQL · Prisma  
+**Testing:** Jest — 47 tests covering pipeline logic, role permissions and API integration  
 **→ [Live App](https://trucking-crm-one.vercel.app/login) · [Repository](https://github.com/dacq7/trucking-crm)**
 
 ---
