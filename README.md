@@ -18,7 +18,7 @@
 
 I'm a full stack developer based in Medellín, Colombia, specialized in building reliable web and mobile applications for real business operations. I'm the founder of **[Veridis Dev](https://veridisdev.com)** — a software development company focused on delivering enterprise-quality software faster using AI-assisted development.
 
-I work across the full stack — from architecting databases and REST APIs to building polished, responsive frontends. I cover the whole lifecycle — design, development, testing, deploy and maintenance — and have **5 apps in production with real users**: Itza Beauty Shop, Trucking CRM, Budokan SKIF, Ecliptic Explorer and Razona UdeA.
+I work across the full stack — from architecting databases and REST APIs to building polished, responsive frontends. I cover the whole lifecycle — design, development, testing, deploy and maintenance — and have **6 apps in production with real users**: Itza Beauty Shop, Trucking CRM, Budokan SKIF, Ecliptic Explorer, Razona UdeA and Idóneo 2210.
 
 ---
 
@@ -78,7 +78,7 @@ I work across the full stack — from architecting databases and REST APIs to bu
 ## Featured Projects
 
 ### 🛍️ Itza Beauty Shop — E-commerce (client project)
-Full e-commerce platform for a real client, in production. Catalog with variants, reviews, cart, checkout, customer accounts and a 5-module admin panel. Payments via Wompi.
+Full e-commerce platform for a real client, in production. Catalog with variants, reviews, cart, checkout, customer accounts and a 5-module admin panel. Integrations: Wompi (cards, PSE, Nequi), Alegra (DIAN e-invoicing) and Coordinadora (shipping).
 
 **Stack:** Next.js · TypeScript · Zustand · TanStack Query · Django · DRF · Celery · Redis · PostgreSQL · Cloudinary  
 **→ [Live App](https://itza-beauty-shop.vercel.app)** · *Private repository (client project)*
@@ -125,6 +125,14 @@ Study platform for the Universidad de Antioquia admission exam.
 
 **Stack:** Next.js 15 · TypeScript · Tailwind CSS · shadcn/ui · MDX · Vitest  
 **→ [Repository](https://github.com/dacq7/razona-udea)**
+
+---
+
+### 🏅 Idóneo 2210 — EdTech (sports coach certification)
+Exam-prep app for Colombia's Sports Coach Suitability Evaluation (Law 2210 of 2022), in production with real users. 29 modules, 752 practice questions, spaced repetition and timed mock exams that replicate the real format (100 items in 120 minutes). Installable PWA that works offline — no backend, no accounts.
+
+**Stack:** Next.js 15 · TypeScript · Tailwind CSS v4 · shadcn/ui · MDX · Zod · Serwist (PWA) · Vitest  
+**→ [Live App](https://idoneo-2210-plum.vercel.app) · [Repository](https://github.com/dacq7/idoneo-2210)**
 
 ---
 
