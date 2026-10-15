@@ -123,7 +123,7 @@ Astronomy web app, deployed and live.
 ### 📚 Razona UdeA — EdTech
 Study platform for the Universidad de Antioquia admission exam.
 
-**Stack:** Next.js 15 · TypeScript · Tailwind CSS · shadcn/ui · MDX · Vitest  
+**Stack:** Next.js 15 · TypeScript · Tailwind CSS · shadcn/ui · MDX  
 **→ [Repository](https://github.com/dacq7/razona-udea)**
 
 ---
