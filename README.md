@@ -86,7 +86,7 @@ Full e-commerce platform for a real client, in production. Catalog with variants
 ---
 
 ### 🥋 Budokan SKIF — Karate Dojo Management
-Management platform for a real karate dojo, in production. Handles students, attendance tracking, belt progression, payments and inventory.
+Management platform for a real karate dojo, in production. Handles students, attendance tracking, belt progression, payment records and inventory.
 
 **Stack:** React · Node.js/Express · PostgreSQL · Prisma  
 **Testing:** Jest — 26 tests covering auth flows, student validation and API endpoints  
